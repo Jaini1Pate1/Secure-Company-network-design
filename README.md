@@ -1,4 +1,3 @@
-#Secure-Company-network-design
 This project was my part of learning the way to secure company network.
 As I was going through it I have learn many thing, from just make my coffee cold.
 
