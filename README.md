@@ -4,7 +4,7 @@ As I was going through it I have learn many thing, from just make my coffee cold
 I have learned about many thing which I was not familiar with before this project.
 Like, I have first configured Wireless access control in different VLAN than AP (access points).
 I know that is dumb, but hey, it was my first time I was configuring access control.
-Every one make mistake in first time (not on bed 😜)
+Every one make mistake in first trial.
 
 I might be not best at explaining but you can read my report and see packet tracer to see what I have configured.
 
